@@ -10,3 +10,49 @@
 	border:none;
 }
 
+* {
+	font-family: "Courier New", serif;
+}
+
+.bg-dark,
+.p-5 {
+	background-color: #1F2937;
+}
+
+.align-items-center #text-success {
+	font-size: 24px;
+	color: #F9FAF8;
+}
+
+.align-items-center .my-4 {
+	font-size: 48px;
+	color: #F9FAF8;
+	font-weight: 900;
+}
+
+.company-name {
+	font-size: 18px;
+	color: #E5E7EB;
+}
+
+#skillset {
+	background-color: #3882F6;
+}
+
+#projects {
+	font-size: 36px;
+	color: #1F2937;
+	font-weight: 900;
+}
+
+#ta {
+	background-color: #E5E7EB;
+	font-size: 36px;
+	color: #1F2937;
+	font-weight: 300;
+	font-style: italic;
+}
+
+
+
+
